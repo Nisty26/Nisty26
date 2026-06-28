@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Nidhi Shetty  <br><br>🎓 B.Tech in Cybersecurity | 2nd Year<br>🏫 N.M.A.M. Institute of Technology <br><br>💻 I’m passionate about exploring the world of Cybersecurity and  Coding.  <br><br>🌱 Currently building a foundation in programming and security concepts  <br><br>⚡ Interests: Cybersecurity | Ethical Hacking | Programming <br>📫 Let’s connect! I’m always open to learning, collaborating, and sharing knowledge. 
+👋 Hi, I'm Nidhi Shetty  <br><br>🎓 B.Tech in Cybersecurity | 3rd Year<br>🏫 N.M.A.M. Institute of Technology <br><br>💻 I’m passionate about exploring the world of Cybersecurity and  Coding.  <br><br>🌱 Currently building a foundation in programming and security concepts  <br><br>⚡ Interests: Cybersecurity | Ethical Hacking | Programming <br>📫 Let’s connect! I’m always open to learning, collaborating, and sharing knowledge. 
 
 
 ## 🌐 Socials:
